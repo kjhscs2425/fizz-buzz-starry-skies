@@ -12,4 +12,4 @@ def print_fizz_buzz(n):
         print("fizzbuzz")
     else: 
         print(n)
-print_fizz_buzz(16)
+print_fizz_buzz(15)
